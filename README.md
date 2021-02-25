@@ -1,6 +1,6 @@
 # napwolf-tw.github.io
 測試與練習用網頁
-'''c
+```c
 #include <stdio.h>
 main()
 {
@@ -9,4 +9,4 @@ main()
 
 
 }
-'''c
+```c
