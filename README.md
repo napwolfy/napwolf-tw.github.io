@@ -3,7 +3,7 @@
 !(https://www.dewyvenerius.com/wp-content/uploads/Hollow-Knight-print-Grub-map-DewyCreations.jpg)
 
 ```c
-# include <stdio.h>
+#include <stdio.h>
 main()
 {
   printf("hello world");
